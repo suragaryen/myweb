@@ -15,7 +15,7 @@
 			<th class="active">조회수</th>
 			<th class="active">작성자</th>
 			<th class="active">작성일</th>
-			<th class="active">삭제</th>
+			<th class="active">삭제삭제삭</th>
 		</tr>	
 	</thead>
 <tbody>
